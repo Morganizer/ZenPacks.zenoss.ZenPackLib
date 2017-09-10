@@ -23,7 +23,7 @@ datasources in Python. They will be collected by the `zenpython` daemon that
 comes with the `PythonCollector` ZenPack. I'd recommend reading the
 `PythonCollector Documentation`_ for more information.
 
-.. _PythonCollector Documentation: http://wiki.zenoss.org/ZenPack:PythonCollector
+.. _PythonCollector Documentation: https://www.zenoss.com/product/zenpacks/pythoncollector
 
 Installing PythonCollector
 --------------------------
